@@ -1,5 +1,5 @@
-# blog-project
-Esta interface foi desenvolvida para fins de estudos.
+# Informações
+Esta interface foi feita a partir de um projeto passado no curso técnico de Desenvolvimento de Sistemas. 
 
 # Desenvolvedores
   - Felipe Ismael
